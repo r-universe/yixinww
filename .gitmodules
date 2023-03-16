@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ltsspca"]
+	path = ltsspca
+	url = https://github.com/yixinww/ltsspca
+	shallow = true
+	registered = true
