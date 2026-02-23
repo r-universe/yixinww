@@ -2,6 +2,3 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "ltsspca"]
-	path = ltsspca
-	url = https://github.com/yixinww/ltsspca
